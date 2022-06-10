@@ -1,0 +1,190 @@
+body {
+   font-family: 'GlacialIndifferenceRegular';
+   font-weight: normal;
+   font-style: normal;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    color: #47525E;
+    
+    background-image: url("../images/pexels-afta-putta-gunawan-683039.jpg");
+    background-position: left bottom;
+    background-size: 665px;
+    background-repeat: no-repeat;
+}
+
+#wrapper {
+    background-image: url("../images/pexels-los-muertos-crew-7487381.jpg");
+    background-repeat: no-repeat;
+    background-size: 665px;;
+    background-position: top;
+    background-position: right top;
+}
+
+header {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-logo {
+    font-family: 'GlacialIndifferenceBold';
+    letter-spacing: 10px;
+    font-size: 37px;
+    display: inline;
+    padding: 20px;
+    justify-content: center;
+}
+
+.main-navbar {
+    height: 104px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-buttons {
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+    font-family: 'GlacialIndifferenceBold';
+    font-size: 18px;
+}
+
+.products-button {
+    background-color: #FFC38B;
+    height: 104px;
+    width: 137px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.prices-button {
+    background-color: #fff;
+    height: 104px;
+    width: 137px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.aboutUs-button {
+    background-color: #fff;
+    height: 104px;
+    width: 137px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.black-coffee {
+    width: 409px;
+    height: 336px;
+    border: black 3px solid;
+    background-color: #fff;
+    margin-right: 350px;
+    margin-top: 100px;
+}
+
+h2 {
+    font-family: 'GlacialIndifferenceBold';
+    font-size: 37px;
+    padding-bottom: 20px;
+}
+
+h3 {
+    font-family: 'GlacialIndifferenceBold';
+    font-size: 24px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+p {
+    font-size: 21px;
+}
+
+/*
+main {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+*/
+
+.black-coffee-container {
+    margin: 20px;
+}
+
+.black-coffee-1 h2 {
+    padding-bottom: 0px;
+    line-height: 20%
+}
+
+.black-coffee-1 h3 {
+    padding-bottom: 0px;
+/*    line-height: 4%*/
+}
+
+.black-coffee-1 {
+    width: 401px;
+    height: 241px;
+    border: black 3px solid;
+    margin-top: 400px;
+    margin-right: 240px;
+    background-color: #fff;
+}
+
+.black-coffee-container-2 {
+    padding: 20px;
+}
+
+.menu-view-button {
+    width: 250px;
+    height: 49px;
+    border: 3px solid black;
+    background-color: #fff;
+    margin-top: 205px;
+    margin-left: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.menu-view-button p {
+    margin-top: 11px;
+    font-family: 'GlacialIndifferenceBold'
+}
+
+.main-content-area-3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.main-content-area-4 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+.main-content-area-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0;
+}
+
+.nav-buttons-2 {
+    margin-top: 48.3%;
+    margin-left: 9%
+}
+
+body {
+    max-height: 1020px;
+}

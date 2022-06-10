@@ -1,0 +1,88 @@
+.aboutUs-button {
+    background-color: #FFC38B;
+}
+
+.prices-button {
+    background-color: #fff;
+}
+
+.big-orange-rectangle {
+    background-color: #FFC38B;
+    width: 100%;
+    height: 347px;
+    text-align: center;
+    margin-top: -33px;
+}
+
+.about-prim-image {
+    height: 412px;
+    width: auto;
+}
+
+h1 {
+    font-family: 'GlacialIndifferenceBold';
+    font-size: 49px;
+    line-height: 0;
+    padding-top: 75px;
+    padding-bottom: 40px;
+}
+
+.coff-cup {
+    height: 419px;
+    width: auto;
+}
+
+.humble-coffee {
+    display: flex;
+    margin-top: 380px;
+    justify-content: center;
+    
+    
+}
+
+.humble-coffee h2 {
+    border-bottom: 8px solid #FFC38B;
+    padding: 0;
+    line-height: 0%;
+    height: 37px;
+    font-size: 30px;
+/*    margin-left: 200px;*/
+}
+
+.text-container-7 {
+    width: 578px;
+/*
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+*/
+    margin-left: 200px;
+}
+
+.text-container-8 {
+    width: 495px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.work-envi h2 {
+    border-bottom: 8px solid #FFC38B;
+    padding: 0;
+    line-height: 0%;
+    height: 37px;
+    font-size: 30px;
+/*    margin-left: 200px;*/
+}
+
+.work-envi {
+    margin-top: 130px;
+}
+
+.text-container-9 {
+    margin-left: 255px;
+    width: 309px;
+}
+
+.text-container-10 {
+    
+}

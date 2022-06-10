@@ -1,0 +1,98 @@
+body {
+    width: 100%;
+    background-image: none;
+    text-align: center;
+    
+}
+
+#wrapper {
+    background-image: none;
+}
+
+header {
+    width: 100%
+}
+
+.header-3-intro h3 {
+    margin-bottom: -85px;
+}
+
+.price-sub {
+    font-family: 'GlacialIndifferenceBold';
+    font-size: 27px;
+    
+}
+
+.subsection {
+    background-color: white;
+    height: 104px;
+    width: 137px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-left: 530px;
+}
+
+.prices-area {
+    width: 1294px;
+    height: 791px;
+    background-color: #FFF7EB;
+    display: inline-block;
+    margin: 0 auto;
+    
+}
+
+.header-3-intro {
+    width: 500px;
+    text-align: left;
+    margin: 30px;
+    margin-bottom: 0px;
+    padding-left: 20px;
+    margin-right: 0;
+    border-right: 6px solid #FFD185;
+    border-top: 6px solid #FFD185;
+}
+
+.menu-cards-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+h5 {
+    line-height: 20%
+}
+
+.menu-cont-card {
+    margin: 50px
+}
+
+.menu-cards {
+    display: inline;
+    padding: 20px;
+    height: 100px;
+}
+
+.menu-cards h3 {
+    font-size: 33px;
+}
+
+.menu-cards h5 {
+    font-size: 24px;
+}
+
+.products-button {
+    background-color: #fff;
+}
+
+.prices-button {
+    background-color: #FFC38B;
+}
+
+.nav-buttons-9 {
+    margin-top: 20px;
+    margin-left: 74%
+}
